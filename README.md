@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://jeet2005.github.io/">
-  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005.github.io/main/public/portrait.png" width="130" style="border-radius:50%;border:3px solid #4ecdc4;" alt="Jeet Patel — visit portfolio"/>
+  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005.github.io/main/public/portrait.png" width="130" alt="Jeet Patel — visit portfolio"/>
 </a>
 
 <br/>
@@ -69,7 +69,17 @@ My work focuses on shipping systems that are
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeet2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
