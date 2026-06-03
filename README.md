@@ -1,87 +1,64 @@
 <div align="center">
 
-# Jeet Patel
+<!-- ANIMATED HEADER WAVE -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeet%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Flutter%20Developer%20%C2%B7%20Systems%20Builder&descAlignY=60&descSize=18)](https://jeet2005.github.io/)
 
-**AI Engineer · Flutter Developer · Systems Builder**
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems.;Shipping+production-grade+apps.;Turning+data+into+decisions.;Flutter+%2B+AI+%3D+what+I+do.;Based+in+Ahmedabad%2C+India.)](https://jeet2005.github.io/)
 
-*Crafting intelligent systems, scalable mobile apps, and production-grade platforms from Ahmedabad, India.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jeet2005.github.io-0f0f0f?style=flat-square&logo=vercel&logoColor=white)](https://jeet2005.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeet_Patel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-patel-903772257)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--8210--8280-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-8210-8280)
+<!-- PROFILE VIEWS -->
+![Profile Views](https://komarev.com/ghpvc/?username=jeet2005&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"/>
 
-I build at the intersection of AI and product — autonomous analytics pipelines, cross-platform mobile applications, and computer-vision tooling. My work focuses on shipping systems that are production-ready, not just proof-of-concept.
+### Who I Am
 
-Currently building with **Softwisp Atlas**, and open to collaborating on ambitious AI or Flutter projects.
+I build at the intersection of **AI and product** —  
+autonomous analytics pipelines, cross-platform mobile  
+apps, and computer-vision tooling.
 
----
+My work focuses on shipping systems that are  
+**production-ready**, not just proof-of-concept.
 
-## Technical Stack
+- Based in **Ahmedabad, India**
+- Building with **Softwisp Atlas**
+- Open to **AI · Flutter · Research** collabs
+- Reach me on [LinkedIn](https://www.linkedin.com/in/jeet-patel-903772257)
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**ML / AI**
-
-![XGBoost](https://img.shields.io/badge/XGBoost-189FC9?style=flat-square&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=flat-square&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-
-**Infrastructure**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<br clear="right"/>
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-### Nexora — Autonomous AI Predictive Analytics Platform
-> Python · FastAPI · React · TypeScript · Scikit-Learn · CatBoost · LightGBM · XGBoost · MongoDB
+<div align="center">
 
-An end-to-end ML platform that takes a raw CSV and produces a production-ready prediction pipeline. Nexora automatically profiles datasets, builds preprocessing pipelines, benchmarks 256+ models with real-time WebSocket leaderboards, monitors feature drift, and serves predictions via authenticated API endpoints. Includes a local LLM assistant powered by Ollama and Phi-3 Mini.
+<!-- ANIMATED SKILL ICONS -->
+[![My Skills](https://skillicons.dev/icons?i=python,dart,flutter,ts,js,react,fastapi,mongodb,opencv&theme=dark&perline=9)](https://skillicons.dev)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0f0f0f?style=flat-square&logo=github&logoColor=white)](https://github.com/jeet2005/Nexora)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://nexoraprediction.netlify.app/)
+<br/>
 
----
+[![My Skills](https://skillicons.dev/icons?i=git,github,vite,tailwind,netlify,figma,linux&theme=dark&perline=7)](https://skillicons.dev)
 
-### TrekVerse — Curated Trekking App
-> Flutter · Dart
+</div>
 
-A modern Flutter app that connects adventure seekers with curated trekking camps and verified brand packages. Built for a smooth discovery and booking experience across both Android and iOS.
+<br/>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-0f0f0f?style=flat-square&logo=github&logoColor=white)](https://github.com/jeet2005/Trekverse)
+<div align="center">
 
----
+<!-- ML STACK - SHIELDS -->
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FC9?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
-### Virtual Hand Controller — Gesture-Based Input
-> Python · MediaPipe · OpenCV · PyAutoGUI
-
-Turns a standard webcam into a gesture-controlled virtual mouse and keyboard. Uses MediaPipe hand tracking and OpenCV for real-time landmark detection, with PyAutoGUI translating gestures into system input events.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0f0f0f?style=flat-square&logo=github&logoColor=white)](https://github.com/jeet2005/Virtual-Hand-Controller)
+</div>
 
 ---
 
@@ -89,25 +66,38 @@ Turns a standard webcam into a gesture-controlled virtual mouse and keyboard. Us
 
 <div align="center">
 
-![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeet2005&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeet2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet2005&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
 
 </div>
 
 ---
 
-## Currently
+## Contribution Activity
 
-- Building production AI systems at **Softwisp Atlas**
-- Exploring local LLM integration for domain-specific applications
-- Open to research collaborations and freelance AI/Flutter work
+<div align="center">
+
+<!-- SNAKE ANIMATION - generated by GitHub Actions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeet2005/jeet2005/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeet2005/jeet2005/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeet2005/jeet2005/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
+
+<!-- ANIMATED FOOTER WAVE -->
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://jeet2005.github.io/)
 
 *If you find something useful here, a star goes a long way.*
 
