@@ -53,16 +53,6 @@ My work focuses on shipping systems that are
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeet2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)
