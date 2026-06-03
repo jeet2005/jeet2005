@@ -65,7 +65,7 @@ My work focuses on shipping systems that are
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeet2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/jeet2005)
 
 </div>
 
