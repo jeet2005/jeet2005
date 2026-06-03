@@ -16,19 +16,11 @@
 ╰───────────────╯
 </h3>
 
-<a href="https://jeet2005.github.io/">
-  <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-58A6FF?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-<br>
-
 <sub>
-⚡ side quests • experiments • AI stuff • cool things I probably built at 2 AM ⚡
+side quests • experiments • AI stuff • cool things I probably built at 2 AM 
 </sub>
 
 <br><br>
-
-⬇️ ⬇️ ⬇️
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeet2005\&style=flat-square\&color=58a6ff\&label=PROFILE+VIEWS)
 
