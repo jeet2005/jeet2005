@@ -1,12 +1,18 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jeet%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20·%20Flutter%20Developer%20·%20Systems%20Builder&descAlignY=60&descSize=18&logo=https://raw.githubusercontent.com/jeet2005/jeet2005.github.io/main/public/portrait.png&logoWidth=60&logoAlignY=20)](https://jeet2005.github.io/)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeet%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20·%20Flutter%20Developer%20·%20Systems%20Builder&descAlignY=60&descSize=18)](https://jeet2005.github.io/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+intelligent+systems.;Shipping+production-grade+apps.;Turning+data+into+decisions.;Flutter+%2B+AI+%3D+what+I+do.;Based+in+Ahmedabad%2C+India.)](https://jeet2005.github.io/)
 
 <br/>
 
-[![Visit Portfolio](https://img.shields.io/badge/%E2%86%92%20visit%20portfolio-no%20cap%2C%20actually%20fire-4ecdc4?style=for-the-badge&labelColor=080c10&color=4ecdc4)](https://jeet2005.github.io/)
+<a href="https://jeet2005.github.io/">
+  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005.github.io/main/public/portrait.png" width="130" style="border-radius:50%;border:3px solid #4ecdc4;" alt="Jeet Patel — visit portfolio"/>
+</a>
+
+<br/>
+
+[![Visit Portfolio](https://img.shields.io/badge/%E2%86%92%20visit%20portfolio-no%20cap%2C%20actually%20fire-4ecdc4?style=for-the-badge&labelColor=080c10)](https://jeet2005.github.io/)
 
 <br/>
 <sub>side quests &nbsp;·&nbsp; experiments &nbsp;·&nbsp; AI stuff &nbsp;·&nbsp; cool things I probably built at 2 AM</sub>
@@ -63,7 +69,7 @@ My work focuses on shipping systems that are
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
