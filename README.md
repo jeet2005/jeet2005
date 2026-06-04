@@ -77,7 +77,7 @@ My work focuses on shipping systems that are
 
 <div align="center">
 
-[![GitHub Calendar Heatmap](https://github-readme-stats.vercel.app/api?username=jeet2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF&count_private=true)](https://github.com/jeet2005)
+[![GitHub Contribution Calendar](https://github-contributions.vercel.app/api/v1/jeet2005?type=calendar)](https://github.com/jeet2005)
 
 </div>
 
