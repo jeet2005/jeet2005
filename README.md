@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeet%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20·%20Flutter%20Developer%20·%20Systems%20Builder&descAlignY=60&descSize=18)](https://jeet2005.github.io/)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeet%20Patel&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40)](https://jeet2005.github.io)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+intelligent+systems.;Shipping+production-grade+apps.;Turning+data+into+decisions.;Flutter+%2B+AI+%3D+what+I+do.;Based+in+Ahmedabad%2C+India.)](https://jeet2005.github.io/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+intelligent+systems.;Shipping+production+code.;Crafting+AI+solutions.;Always+learning%2C+always+shipping.)](https://jeet2005.github.io)
 
 <br/>
 
@@ -69,10 +69,17 @@ My work focuses on shipping systems that are
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=jeet2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E"/>
 
 </div>
 
+## 🍿 Snack on Contribution Calendars
+
+<div align="center">
+
+[![GitHub Calendar Heatmap](https://github-readme-stats.vercel.app/api?username=jeet2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=FFFFFF&count_private=true)](https://github.com/jeet2005)
+
+</div>
 
 ## Contribution Activity
 
