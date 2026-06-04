@@ -75,10 +75,12 @@ My work focuses on shipping systems that are
 
 ## 🍿 Snack on Contribution Calendars
 
+---
+
+## Contribution Snake
+
 <div align="center">
-
-[![GitHub Contribution Calendar](https://github-contributions.vercel.app/api/v1/jeet2005?type=calendar)](https://github.com/jeet2005)
-
+  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## Contribution Activity
