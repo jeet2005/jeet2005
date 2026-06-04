@@ -76,7 +76,7 @@ My work focuses on shipping systems that are
 ## 🍿 Snack on Contribution Calendars
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jeet2005/jeet2005/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## Contribution Activity
